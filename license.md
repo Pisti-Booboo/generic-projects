@@ -1,25 +1,55 @@
-This is free and unencumbered software released into the public domain.
+# Copyright notice
+##   © - All Rights Reserved - Version 1, 29 June 2019
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+***
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+### As long as is not stated differently :
 
-For more information, please refer to <http://unlicense.org>
+* All these files and their contents are property of authors.
 
+* All trademarks, brand names used are registered and property of authors.
+
+
+### Except with our express permission :
+
+* Any modification alteration or reproduction of part of files is prohibited.
+
+* You may not distribute or republish these files and their contents in any way.
+
+* You may not commercially exploit part or all of the contents.
+
+* You may not upload,transfer,transmit or forward it in any website.
+
+* You may not copy, duplicate or store on any form of electronic or paper retrieval system.
+
+
+
+### Additionally, we make no warranty that :
+
+* Files and their contents will meet your requirements.
+
+* Not include technical or other mistakes, inaccuracies or typographical errors.
+
+* Quality will meet your expectations.
+
+* Service will be uninterrupted, timely, secure or error-free.
+
+* Results obtained from the use will be effective, accurate or reliable.
+
+* Errors obtained and reported will be corrected.
+
+* Documentation is available.
+
+* Prior-notice at any time, for any changes.
+
+* Commitment to update files and their contents.
+
+
+
+***
+
+
+### And we disclaim any liability :
+THIS CONTENT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH, OR THE USE OR OTHER DEALINGS WITH.
