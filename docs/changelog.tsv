@@ -1,0 +1,12 @@
+#date	#version	#title	#comment
+2001	1.1.1	setting for the initial prog	The initial code of prog setting was not correct
+2002	1.2.3	zillion lib setting improvement	improvement of the all included libraries
+2003	1.2.3	Provide many classification of data	classification for the all the mess in data folder was necessary
+2004	2.0.0	add compositing functions	for better video edition and preview
+2004	2.1.0	Write the preferences code	add a set of new options for the main code
+2006	2.1.0	provide many interesting features	provide much more possibilities and choices by adding some new features
+2007	2.3.1	libarts and microtiles	create more icons and pictures for the libarts library and microtitles feature
+2007	3.3.1	faster scaling code	the old code needed a speed improvement
+2007	3.2.2	cute icon Creation	add few more icons and decoration in the data folder
+2010	3.3.3	some code for doing checks	additional tool script for the IT check 
+2010	4.0.0	add lots of nice artwork	Add more icons
