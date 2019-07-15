@@ -1,0 +1,25 @@
+#file	#Holder	#year	#Licenses	#Origin
+docs/language/index.html	Brian Hooks	2004	Creative Commons 3.0	
+docs/sources.txt	Moriza Corp	2002-2009	CPL	
+docs/language/en-us/index.html	Moriza Corp	2010	BSD-3-clause	
+docs/language/en-us/historic.html	Nuclex Development Labs	2004	 public-domain	
+docs/language/en-us/manual.html	Ignazio Castano <castano@yahoo.es>	2010	Copyright	
+docs/language/fr-fr/index.html	Eroz Vock	2010	 public-domain	
+docs/language/fr-fr/manual.html	Brian Hooks	2010	MPL-1.1	
+data/image/icon.svg	Nuclex Development Labs	2010	Copyright	
+data/image/icon.png	Ignazio Castano <castano@yahoo.es>	2004	Copyright	
+data/image/preview.jpg	Eroz Vock	1998-2011	Copyright	
+tools/font/Packer.py	Kevin Fotch	2010	 public-domain	
+tools/cxtst/claz.py	Jarid Grob	2002-2009	MPL-1.1	
+tools/cxtst/polish.py	Jason Perkins	2010	CPL	
+src/lib/tdcore/poshlib/posh.h	Jarid Grob	2004	BSD-3-clause	
+src/lib/tdcore/BitArray.h	Ajax.org B.V.	2010	Copyright	
+src/lib/tdcore/Containers.h	Ajax.org B.V.	2010	Copyright	
+src/lib/tdcore/Debug.cpp	Kevin Fotch	2002-2009	 public-domain	
+src/lib/tdcore/StrLib.cpp	Brian Hooks	2010	Copyright	
+src/lib/tdcore/StrLib.h	Jason Perkins	2009-2014	LGPL-2.1+	
+src/lib/tdcore/Stream.h	Ajax.org B.V.	2010	 public-domain	
+src/lib/tdcore/TextReader.cpp	jQ UI Team <jeasyui@gmail.com>	2010	Copyright	
+src/lib/tdcore/TextReader.h	jQ-FAC	2010	BSD-3-clause	
+src/lib/xwews/spiderprobe/tip.py	Jason Perkins	2012-2014	GPL-3.0	
+
